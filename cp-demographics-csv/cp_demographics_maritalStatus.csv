@@ -1,0 +1,709 @@
+Geography,Gender,Marital Status,Percent
+British Columbia,Men+,Married,0.236967726
+Central Kootenay,Men+,Married,0.222726431
+Columbia-Shuswap,Men+,Married,0.246388606
+East Kootenay,Men+,Married,0.244176635
+Fraser-Fort George,Men+,Married,0.216052061
+Kootenay Boundary,Men+,Married,0.231944444
+Canal Flats,Men+,Married,0.242647059
+Castlegar,Men+,Married,0.220815752
+Cranbrook,Men+,Married,0.229845626
+Creston,Men+,Married,0.241869919
+Columbia-Shuswap A,Men+,Married,0.233043478
+Columbia-Shuswap B,Men+,Married,0.230769231
+Elkford,Men+,Married,0.25
+Fernie,Men+,Married,0.231285988
+Fruitvale,Men+,Married,0.24852071
+Golden,Men+,Married,0.207462687
+Grand Forks,Men+,Married,0.21399177
+Greenwood,Men+,Married,0.196850394
+Invermere,Men+,Married,0.226788432
+Kaslo,Men+,Married,0.213903743
+Kimberley,Men+,Married,0.241328413
+Midway,Men+,Married,0.25
+Montrose,Men+,Married,0.277108434
+Nakusp,Men+,Married,0.227758007
+Nelson,Men+,Married,0.171548117
+New Denver,Men+,Married,0.179775281
+Radium Hot Springs,Men+,Married,0.255230126
+Central Kootenay A,Men+,Married,0.275184275
+Central Kootenay B,Men+,Married,0.266009852
+Central Kootenay C,Men+,Married,0.28125
+Central Kootenay D,Men+,Married,0.20610687
+Central Kootenay E,Men+,Married,0.225806452
+Central Kootenay F,Men+,Married,0.249279539
+Central Kootenay G,Men+,Married,0.202166065
+Central Kootenay H,Men+,Married,0.204889406
+Central Kootenay I,Men+,Married,0.230941704
+Central Kootenay J,Men+,Married,0.245
+Central Kootenay K,Men+,Married,0.265432099
+East Kootenay A,Men+,Married,0.258064516
+East Kootenay B,Men+,Married,0.282420749
+East Kootenay C,Men+,Married,0.280036134
+East Kootenay E,Men+,Married,0.265100671
+East Kootenay F,Men+,Married,0.284345048
+East Kootenay G,Men+,Married,0.245614035
+Fraser-Fort George H,Men+,Married,0.272058824
+Kootenay Boundary A,Men+,Married,0.272401434
+Kootenay Boundary B,Men+,Married,0.268774704
+Kootenay Boundary C,Men+,Married,0.263513514
+Kootenay Boundary D,Men+,Married,0.263986014
+Kootenay Boundary E,Men+,Married,0.226235741
+Revelstoke,Men+,Married,0.191977077
+Rossland,Men+,Married,0.234513274
+Salmo,Men+,Married,0.193877551
+Silverton,Men+,Married,0.285714286
+Slocan,Men+,Married,0.158730159
+Sparwood,Men+,Married,0.2413273
+Trail,Men+,Married,0.198694706
+Valemount,Men+,Married,0.179775281
+Warfield,Men+,Married,0.228956229
+British Columbia,Men+,Common-law,0.050112279
+Central Kootenay,Men+,Common-law,0.070939063
+Columbia-Shuswap,Men+,Common-law,0.06602238
+East Kootenay,Men+,Common-law,0.068441407
+Fraser-Fort George,Men+,Common-law,0.065509761
+Kootenay Boundary,Men+,Common-law,0.066666667
+Canal Flats,Men+,Common-law,0.095588235
+Castlegar,Men+,Common-law,0.061884669
+Cranbrook,Men+,Common-law,0.057747284
+Creston,Men+,Common-law,0.046747967
+Columbia-Shuswap A,Men+,Common-law,0.099130435
+Columbia-Shuswap B,Men+,Common-law,0.085470085
+Elkford,Men+,Common-law,0.075688073
+Fernie,Men+,Common-law,0.085412668
+Fruitvale,Men+,Common-law,0.059171598
+Golden,Men+,Common-law,0.080597015
+Grand Forks,Men+,Common-law,0.065843621
+Greenwood,Men+,Common-law,0.070866142
+Invermere,Men+,Common-law,0.071537291
+Kaslo,Men+,Common-law,0.069518717
+Kimberley,Men+,Common-law,0.074538745
+Midway,Men+,Common-law,0.05
+Montrose,Men+,Common-law,0.06626506
+Nakusp,Men+,Common-law,0.060498221
+Nelson,Men+,Common-law,0.076882845
+New Denver,Men+,Common-law,0.06741573
+Radium Hot Springs,Men+,Common-law,0.075313808
+Central Kootenay A,Men+,Common-law,0.058968059
+Central Kootenay B,Men+,Common-law,0.048029557
+Central Kootenay C,Men+,Common-law,0.05859375
+Central Kootenay D,Men+,Common-law,0.099236641
+Central Kootenay E,Men+,Common-law,0.07771261
+Central Kootenay F,Men+,Common-law,0.076368876
+Central Kootenay G,Men+,Common-law,0.093862816
+Central Kootenay H,Men+,Common-law,0.097788126
+Central Kootenay I,Men+,Common-law,0.087443946
+Central Kootenay J,Men+,Common-law,0.071666667
+Central Kootenay K,Men+,Common-law,0.080246914
+East Kootenay A,Men+,Common-law,0.077419355
+East Kootenay B,Men+,Common-law,0.063400576
+East Kootenay C,Men+,Common-law,0.062330623
+East Kootenay E,Men+,Common-law,0.073825503
+East Kootenay F,Men+,Common-law,0.052715655
+East Kootenay G,Men+,Common-law,0.087719298
+Fraser-Fort George H,Men+,Common-law,0.0625
+Kootenay Boundary A,Men+,Common-law,0.071684588
+Kootenay Boundary B,Men+,Common-law,0.083003953
+Kootenay Boundary C,Men+,Common-law,0.060810811
+Kootenay Boundary D,Men+,Common-law,0.06993007
+Kootenay Boundary E,Men+,Common-law,0.070342205
+Revelstoke,Men+,Common-law,0.101719198
+Rossland,Men+,Common-law,0.084070796
+Salmo,Men+,Common-law,0.076530612
+Silverton,Men+,Common-law,0.071428571
+Slocan,Men+,Common-law,0.079365079
+Sparwood,Men+,Common-law,0.073906486
+Trail,Men+,Common-law,0.053662074
+Valemount,Men+,Common-law,0.095505618
+Warfield,Men+,Common-law,0.074074074
+British Columbia,Men+,Never legally married,0.189400978
+Central Kootenay,Men+,Never legally married,0.186423412
+Columbia-Shuswap,Men+,Never legally married,0.168870804
+East Kootenay,Men+,Never legally married,0.179872291
+Fraser-Fort George,Men+,Never legally married,0.212395414
+Kootenay Boundary,Men+,Never legally married,0.171875
+Canal Flats,Men+,Never legally married,0.176470588
+Castlegar,Men+,Never legally married,0.186357243
+Cranbrook,Men+,Never legally married,0.179817038
+Creston,Men+,Never legally married,0.138211382
+Columbia-Shuswap A,Men+,Never legally married,0.206956522
+Columbia-Shuswap B,Men+,Never legally married,0.230769231
+Elkford,Men+,Never legally married,0.206422018
+Fernie,Men+,Never legally married,0.214971209
+Fruitvale,Men+,Never legally married,0.168639053
+Golden,Men+,Never legally married,0.234328358
+Grand Forks,Men+,Never legally married,0.156378601
+Greenwood,Men+,Never legally married,0.165354331
+Invermere,Men+,Never legally married,0.182648402
+Kaslo,Men+,Never legally married,0.165775401
+Kimberley,Men+,Never legally married,0.173431734
+Midway,Men+,Never legally married,0.141666667
+Montrose,Men+,Never legally married,0.162650602
+Nakusp,Men+,Never legally married,0.160142349
+Nelson,Men+,Never legally married,0.235878661
+New Denver,Men+,Never legally married,0.146067416
+Radium Hot Springs,Men+,Never legally married,0.150627615
+Central Kootenay A,Men+,Never legally married,0.144963145
+Central Kootenay B,Men+,Never legally married,0.146551724
+Central Kootenay C,Men+,Never legally married,0.1328125
+Central Kootenay D,Men+,Never legally married,0.190839695
+Central Kootenay E,Men+,Never legally married,0.19941349
+Central Kootenay F,Men+,Never legally married,0.175792507
+Central Kootenay G,Men+,Never legally married,0.223826715
+Central Kootenay H,Men+,Never legally married,0.214202561
+Central Kootenay I,Men+,Never legally married,0.206278027
+Central Kootenay J,Men+,Never legally married,0.188333333
+Central Kootenay K,Men+,Never legally married,0.135802469
+East Kootenay A,Men+,Never legally married,0.2
+East Kootenay B,Men+,Never legally married,0.16426513
+East Kootenay C,Men+,Never legally married,0.154471545
+East Kootenay E,Men+,Never legally married,0.157718121
+East Kootenay F,Men+,Never legally married,0.150159744
+East Kootenay G,Men+,Never legally married,0.168421053
+Fraser-Fort George H,Men+,Never legally married,0.161764706
+Kootenay Boundary A,Men+,Never legally married,0.146953405
+Kootenay Boundary B,Men+,Never legally married,0.146245059
+Kootenay Boundary C,Men+,Never legally married,0.128378378
+Kootenay Boundary D,Men+,Never legally married,0.141608392
+Kootenay Boundary E,Men+,Never legally married,0.186311787
+Revelstoke,Men+,Never legally married,0.258595989
+Rossland,Men+,Never legally married,0.209439528
+Salmo,Men+,Never legally married,0.183673469
+Silverton,Men+,Never legally married,0.142857143
+Slocan,Men+,Never legally married,0.222222222
+Sparwood,Men+,Never legally married,0.19306184
+Trail,Men+,Never legally married,0.192168238
+Valemount,Men+,Never legally married,0.224719101
+Warfield,Men+,Never legally married,0.178451178
+British Columbia,Men+,Separated,0.013125645
+Central Kootenay,Men+,Separated,0.017132802
+Columbia-Shuswap,Men+,Separated,0.01525941
+East Kootenay,Men+,Separated,0.015918698
+Fraser-Fort George,Men+,Separated,0.018779052
+Kootenay Boundary,Men+,Separated,0.018923611
+Canal Flats,Men+,Separated,0.022058824
+Castlegar,Men+,Separated,0.016877637
+Cranbrook,Men+,Separated,0.017724414
+Creston,Men+,Separated,0.016260163
+Columbia-Shuswap A,Men+,Separated,0.015652174
+Columbia-Shuswap B,Men+,Separated,0.025641026
+Elkford,Men+,Separated,0.013761468
+Fernie,Men+,Separated,0.007677543
+Fruitvale,Men+,Separated,0.020710059
+Golden,Men+,Separated,0.019402985
+Grand Forks,Men+,Separated,0.01920439
+Greenwood,Men+,Separated,0.031496063
+Invermere,Men+,Separated,0.01217656
+Kaslo,Men+,Separated,0.016042781
+Kimberley,Men+,Separated,0.01402214
+Midway,Men+,Separated,0.025
+Montrose,Men+,Separated,0.012048193
+Nakusp,Men+,Separated,0.014234875
+Nelson,Men+,Separated,0.012552301
+New Denver,Men+,Separated,0.02247191
+Radium Hot Springs,Men+,Separated,0.008368201
+Central Kootenay A,Men+,Separated,0.01965602
+Central Kootenay B,Men+,Separated,0.017241379
+Central Kootenay C,Men+,Separated,0.015625
+Central Kootenay D,Men+,Separated,0.022900763
+Central Kootenay E,Men+,Separated,0.014662757
+Central Kootenay F,Men+,Separated,0.015850144
+Central Kootenay G,Men+,Separated,0.028880866
+Central Kootenay H,Men+,Separated,0.019790454
+Central Kootenay I,Men+,Separated,0.01793722
+Central Kootenay J,Men+,Separated,0.018333333
+Central Kootenay K,Men+,Separated,0.021604938
+East Kootenay A,Men+,Separated,0.012903226
+East Kootenay B,Men+,Separated,0.017291066
+East Kootenay C,Men+,Separated,0.017163505
+East Kootenay E,Men+,Separated,0.020134228
+East Kootenay F,Men+,Separated,0.014376997
+East Kootenay G,Men+,Separated,0.031578947
+Fraser-Fort George H,Men+,Separated,0.014705882
+Kootenay Boundary A,Men+,Separated,0.025089606
+Kootenay Boundary B,Men+,Separated,0.015810277
+Kootenay Boundary C,Men+,Separated,0.016891892
+Kootenay Boundary D,Men+,Separated,0.012237762
+Kootenay Boundary E,Men+,Separated,0.030418251
+Revelstoke,Men+,Separated,0.010744986
+Rossland,Men+,Separated,0.014749263
+Salmo,Men+,Separated,0.025510204
+Silverton,Men+,Separated,0
+Slocan,Men+,Separated,0.015873016
+Sparwood,Men+,Separated,0.019607843
+Trail,Men+,Separated,0.018129079
+Valemount,Men+,Separated,0.028089888
+Warfield,Men+,Separated,0.02020202
+British Columbia,Men+,Divorced,0.035787982
+Central Kootenay,Men+,Divorced,0.053343212
+Columbia-Shuswap,Men+,Divorced,0.049542218
+East Kootenay,Men+,Divorced,0.043708967
+Fraser-Fort George,Men+,Divorced,0.039479393
+Kootenay Boundary,Men+,Divorced,0.055902778
+Canal Flats,Men+,Divorced,0.058823529
+Castlegar,Men+,Divorced,0.044303797
+Cranbrook,Men+,Divorced,0.042024014
+Creston,Men+,Divorced,0.044715447
+Columbia-Shuswap A,Men+,Divorced,0.059130435
+Columbia-Shuswap B,Men+,Divorced,0.068376068
+Elkford,Men+,Divorced,0.04587156
+Fernie,Men+,Divorced,0.032629559
+Fruitvale,Men+,Divorced,0.041420118
+Golden,Men+,Divorced,0.034328358
+Grand Forks,Men+,Divorced,0.057613169
+Greenwood,Men+,Divorced,0.094488189
+Invermere,Men+,Divorced,0.03348554
+Kaslo,Men+,Divorced,0.069518717
+Kimberley,Men+,Divorced,0.046494465
+Midway,Men+,Divorced,0.066666667
+Montrose,Men+,Divorced,0.042168675
+Nakusp,Men+,Divorced,0.049822064
+Nelson,Men+,Divorced,0.043410042
+New Denver,Men+,Divorced,0.056179775
+Radium Hot Springs,Men+,Divorced,0.071129707
+Central Kootenay A,Men+,Divorced,0.058968059
+Central Kootenay B,Men+,Divorced,0.048029557
+Central Kootenay C,Men+,Divorced,0.07421875
+Central Kootenay D,Men+,Divorced,0.095419847
+Central Kootenay E,Men+,Divorced,0.060117302
+Central Kootenay F,Men+,Divorced,0.048991354
+Central Kootenay G,Men+,Divorced,0.072202166
+Central Kootenay H,Men+,Divorced,0.068684517
+Central Kootenay I,Men+,Divorced,0.056053812
+Central Kootenay J,Men+,Divorced,0.048333333
+Central Kootenay K,Men+,Divorced,0.067901235
+East Kootenay A,Men+,Divorced,0.051612903
+East Kootenay B,Men+,Divorced,0.04610951
+East Kootenay C,Men+,Divorced,0.047877145
+East Kootenay E,Men+,Divorced,0.05704698
+East Kootenay F,Men+,Divorced,0.039936102
+East Kootenay G,Men+,Divorced,0.052631579
+Fraser-Fort George H,Men+,Divorced,0.047794118
+Kootenay Boundary A,Men+,Divorced,0.05734767
+Kootenay Boundary B,Men+,Divorced,0.059288538
+Kootenay Boundary C,Men+,Divorced,0.057432432
+Kootenay Boundary D,Men+,Divorced,0.071678322
+Kootenay Boundary E,Men+,Divorced,0.070342205
+Revelstoke,Men+,Divorced,0.039398281
+Rossland,Men+,Divorced,0.039823009
+Salmo,Men+,Divorced,0.06122449
+Silverton,Men+,Divorced,0.071428571
+Slocan,Men+,Divorced,0.047619048
+Sparwood,Men+,Divorced,0.046757164
+Trail,Men+,Divorced,0.052211748
+Valemount,Men+,Divorced,0.04494382
+Warfield,Men+,Divorced,0.053872054
+British Columbia,Men+,Widowed,0.012175594
+Central Kootenay,Men+,Widowed,0.016391924
+Columbia-Shuswap,Men+,Widowed,0.017090539
+East Kootenay,Men+,Widowed,0.015019336
+Fraser-Fort George,Men+,Widowed,0.013201116
+Kootenay Boundary,Men+,Widowed,0.017881944
+Canal Flats,Men+,Widowed,0.014705882
+Castlegar,Men+,Widowed,0.016877637
+Cranbrook,Men+,Widowed,0.015437393
+Creston,Men+,Widowed,0.024390244
+Columbia-Shuswap A,Men+,Widowed,0.015652174
+Columbia-Shuswap B,Men+,Widowed,0.008547009
+Elkford,Men+,Widowed,0.009174312
+Fernie,Men+,Widowed,0.007677543
+Fruitvale,Men+,Widowed,0.014792899
+Golden,Men+,Widowed,0.011940299
+Grand Forks,Men+,Widowed,0.0260631
+Greenwood,Men+,Widowed,0.031496063
+Invermere,Men+,Widowed,0.02130898
+Kaslo,Men+,Widowed,0.010695187
+Kimberley,Men+,Widowed,0.01402214
+Midway,Men+,Widowed,0.033333333
+Montrose,Men+,Widowed,0.018072289
+Nakusp,Men+,Widowed,0.024911032
+Nelson,Men+,Widowed,0.012552301
+New Denver,Men+,Widowed,0.02247191
+Radium Hot Springs,Men+,Widowed,0.012552301
+Central Kootenay A,Men+,Widowed,0.01965602
+Central Kootenay B,Men+,Widowed,0.020935961
+Central Kootenay C,Men+,Widowed,0.01171875
+Central Kootenay D,Men+,Widowed,0.019083969
+Central Kootenay E,Men+,Widowed,0.016129032
+Central Kootenay F,Men+,Widowed,0.0129683
+Central Kootenay G,Men+,Widowed,0.010830325
+Central Kootenay H,Men+,Widowed,0.012805588
+Central Kootenay I,Men+,Widowed,0.013452915
+Central Kootenay J,Men+,Widowed,0.011666667
+Central Kootenay K,Men+,Widowed,0.018518519
+East Kootenay A,Men+,Widowed,0.009677419
+East Kootenay B,Men+,Widowed,0.023054755
+East Kootenay C,Men+,Widowed,0.01535682
+East Kootenay E,Men+,Widowed,0.020134228
+East Kootenay F,Men+,Widowed,0.019169329
+East Kootenay G,Men+,Widowed,0.010526316
+Fraser-Fort George H,Men+,Widowed,0.011029412
+Kootenay Boundary A,Men+,Widowed,0.017921147
+Kootenay Boundary B,Men+,Widowed,0.015810277
+Kootenay Boundary C,Men+,Widowed,0.027027027
+Kootenay Boundary D,Men+,Widowed,0.017482517
+Kootenay Boundary E,Men+,Widowed,0.013307985
+Revelstoke,Men+,Widowed,0.009312321
+Rossland,Men+,Widowed,0.008849558
+Salmo,Men+,Widowed,0.015306122
+Silverton,Men+,Widowed,0.035714286
+Slocan,Men+,Widowed,0.015873016
+Sparwood,Men+,Widowed,0.012066365
+Trail,Men+,Widowed,0.018854242
+Valemount,Men+,Widowed,0.011235955
+Warfield,Men+,Widowed,0.016835017
+British Columbia,Women+,Married,0.238329777
+Central Kootenay,Women+,Married,0.223374699
+Columbia-Shuswap,Women+,Married,0.246897253
+East Kootenay,Women+,Married,0.243457145
+Fraser-Fort George,Women+,Married,0.216547877
+Kootenay Boundary,Women+,Married,0.231597222
+Canal Flats,Women+,Married,0.242647059
+Castlegar,Women+,Married,0.224331927
+Cranbrook,Women+,Married,0.232132647
+Creston,Women+,Married,0.244918699
+Columbia-Shuswap A,Women+,Married,0.229565217
+Columbia-Shuswap B,Women+,Married,0.230769231
+Elkford,Women+,Married,0.240825688
+Fernie,Women+,Married,0.229366603
+Fruitvale,Women+,Married,0.24556213
+Golden,Women+,Married,0.204477612
+Grand Forks,Women+,Married,0.21399177
+Greenwood,Women+,Married,0.204724409
+Invermere,Women+,Married,0.226788432
+Kaslo,Women+,Married,0.213903743
+Kimberley,Women+,Married,0.242066421
+Midway,Women+,Married,0.241666667
+Montrose,Women+,Married,0.277108434
+Nakusp,Women+,Married,0.227758007
+Nelson,Women+,Married,0.175209205
+New Denver,Women+,Married,0.202247191
+Radium Hot Springs,Women+,Married,0.246861925
+Central Kootenay A,Women+,Married,0.265356265
+Central Kootenay B,Women+,Married,0.261083744
+Central Kootenay C,Women+,Married,0.27734375
+Central Kootenay D,Women+,Married,0.194656489
+Central Kootenay E,Women+,Married,0.227272727
+Central Kootenay F,Women+,Married,0.253602305
+Central Kootenay G,Women+,Married,0.202166065
+Central Kootenay H,Women+,Married,0.199068685
+Central Kootenay I,Women+,Married,0.230941704
+Central Kootenay J,Women+,Married,0.243333333
+Central Kootenay K,Women+,Married,0.265432099
+East Kootenay A,Women+,Married,0.261290323
+East Kootenay B,Women+,Married,0.276657061
+East Kootenay C,Women+,Married,0.278229449
+East Kootenay E,Women+,Married,0.258389262
+East Kootenay F,Women+,Married,0.279552716
+East Kootenay G,Women+,Married,0.242105263
+Fraser-Fort George H,Women+,Married,0.264705882
+Kootenay Boundary A,Women+,Married,0.275985663
+Kootenay Boundary B,Women+,Married,0.264822134
+Kootenay Boundary C,Women+,Married,0.260135135
+Kootenay Boundary D,Women+,Married,0.262237762
+Kootenay Boundary E,Women+,Married,0.228136882
+Revelstoke,Women+,Married,0.191977077
+Rossland,Women+,Married,0.234513274
+Salmo,Women+,Married,0.198979592
+Silverton,Women+,Married,0.214285714
+Slocan,Women+,Married,0.174603175
+Sparwood,Women+,Married,0.2413273
+Trail,Women+,Married,0.199419869
+Valemount,Women+,Married,0.185393258
+Warfield,Women+,Married,0.232323232
+British Columbia,Women+,Common-law,0.049786647
+Central Kootenay,Women+,Common-law,0.07195777
+Columbia-Shuswap,Women+,Common-law,0.066632757
+East Kootenay,Women+,Common-law,0.068801151
+Fraser-Fort George,Women+,Common-law,0.065819647
+Kootenay Boundary,Women+,Common-law,0.066840278
+Canal Flats,Women+,Common-law,0.102941176
+Castlegar,Women+,Common-law,0.064697609
+Cranbrook,Women+,Common-law,0.057747284
+Creston,Women+,Common-law,0.046747967
+Columbia-Shuswap A,Women+,Common-law,0.097391304
+Columbia-Shuswap B,Women+,Common-law,0.085470085
+Elkford,Women+,Common-law,0.075688073
+Fernie,Women+,Common-law,0.087332054
+Fruitvale,Women+,Common-law,0.059171598
+Golden,Women+,Common-law,0.080597015
+Grand Forks,Women+,Common-law,0.064471879
+Greenwood,Women+,Common-law,0.070866142
+Invermere,Women+,Common-law,0.068493151
+Kaslo,Women+,Common-law,0.07486631
+Kimberley,Women+,Common-law,0.07601476
+Midway,Women+,Common-law,0.058333333
+Montrose,Women+,Common-law,0.06626506
+Nakusp,Women+,Common-law,0.060498221
+Nelson,Women+,Common-law,0.076882845
+New Denver,Women+,Common-law,0.06741573
+Radium Hot Springs,Women+,Common-law,0.071129707
+Central Kootenay A,Women+,Common-law,0.056511057
+Central Kootenay B,Women+,Common-law,0.048029557
+Central Kootenay C,Women+,Common-law,0.05859375
+Central Kootenay D,Women+,Common-law,0.095419847
+Central Kootenay E,Women+,Common-law,0.07771261
+Central Kootenay F,Women+,Common-law,0.077809798
+Central Kootenay G,Women+,Common-law,0.093862816
+Central Kootenay H,Women+,Common-law,0.09895227
+Central Kootenay I,Women+,Common-law,0.089686099
+Central Kootenay J,Women+,Common-law,0.073333333
+Central Kootenay K,Women+,Common-law,0.080246914
+East Kootenay A,Women+,Common-law,0.080645161
+East Kootenay B,Women+,Common-law,0.063400576
+East Kootenay C,Women+,Common-law,0.063233966
+East Kootenay E,Women+,Common-law,0.077181208
+East Kootenay F,Women+,Common-law,0.054313099
+East Kootenay G,Women+,Common-law,0.084210526
+Fraser-Fort George H,Women+,Common-law,0.0625
+Kootenay Boundary A,Women+,Common-law,0.071684588
+Kootenay Boundary B,Women+,Common-law,0.079051383
+Kootenay Boundary C,Women+,Common-law,0.060810811
+Kootenay Boundary D,Women+,Common-law,0.068181818
+Kootenay Boundary E,Women+,Common-law,0.076045627
+Revelstoke,Women+,Common-law,0.10243553
+Rossland,Women+,Common-law,0.085545723
+Salmo,Women+,Common-law,0.081632653
+Silverton,Women+,Common-law,0.071428571
+Slocan,Women+,Common-law,0.079365079
+Sparwood,Women+,Common-law,0.073906486
+Trail,Women+,Common-law,0.053662074
+Valemount,Women+,Common-law,0.095505618
+Warfield,Women+,Common-law,0.074074074
+British Columbia,Women+,Never legally married,0.164518742
+Central Kootenay,Women+,Never legally married,0.154380441
+Columbia-Shuswap,Women+,Never legally married,0.135503561
+East Kootenay,Women+,Never legally married,0.145966364
+Fraser-Fort George,Women+,Never legally married,0.17483731
+Kootenay Boundary,Women+,Never legally married,0.134375
+Canal Flats,Women+,Never legally married,0.147058824
+Castlegar,Women+,Never legally married,0.157524613
+Cranbrook,Women+,Never legally married,0.14922813
+Creston,Women+,Never legally married,0.118902439
+Columbia-Shuswap A,Women+,Never legally married,0.154782609
+Columbia-Shuswap B,Women+,Never legally married,0.145299145
+Elkford,Women+,Never legally married,0.153669725
+Fernie,Women+,Never legally married,0.186180422
+Fruitvale,Women+,Never legally married,0.121301775
+Golden,Women+,Never legally married,0.182089552
+Grand Forks,Women+,Never legally married,0.133058985
+Greenwood,Women+,Never legally married,0.11023622
+Invermere,Women+,Never legally married,0.161339422
+Kaslo,Women+,Never legally married,0.14973262
+Kimberley,Women+,Never legally married,0.146125461
+Midway,Women+,Never legally married,0.091666667
+Montrose,Women+,Never legally married,0.114457831
+Nakusp,Women+,Never legally married,0.15658363
+Nelson,Women+,Never legally married,0.212343096
+New Denver,Women+,Never legally married,0.134831461
+Radium Hot Springs,Women+,Never legally married,0.138075314
+Central Kootenay A,Women+,Never legally married,0.093366093
+Central Kootenay B,Women+,Never legally married,0.125615764
+Central Kootenay C,Women+,Never legally married,0.1015625
+Central Kootenay D,Women+,Never legally married,0.160305344
+Central Kootenay E,Women+,Never legally married,0.149560117
+Central Kootenay F,Women+,Never legally married,0.145533141
+Central Kootenay G,Women+,Never legally married,0.166064982
+Central Kootenay H,Women+,Never legally married,0.172293364
+Central Kootenay I,Women+,Never legally married,0.14573991
+Central Kootenay J,Women+,Never legally married,0.138333333
+Central Kootenay K,Women+,Never legally married,0.111111111
+East Kootenay A,Women+,Never legally married,0.141935484
+East Kootenay B,Women+,Never legally married,0.109510086
+East Kootenay C,Women+,Never legally married,0.119241192
+East Kootenay E,Women+,Never legally married,0.117449664
+East Kootenay F,Women+,Never legally married,0.100638978
+East Kootenay G,Women+,Never legally married,0.136842105
+Fraser-Fort George H,Women+,Never legally married,0.125
+Kootenay Boundary A,Women+,Never legally married,0.114695341
+Kootenay Boundary B,Women+,Never legally married,0.106719368
+Kootenay Boundary C,Women+,Never legally married,0.097972973
+Kootenay Boundary D,Women+,Never legally married,0.11013986
+Kootenay Boundary E,Women+,Never legally married,0.142585551
+Revelstoke,Women+,Never legally married,0.211318052
+Rossland,Women+,Never legally married,0.166666667
+Salmo,Women+,Never legally married,0.168367347
+Silverton,Women+,Never legally married,0.107142857
+Slocan,Women+,Never legally married,0.142857143
+Sparwood,Women+,Never legally married,0.14479638
+Trail,Women+,Never legally married,0.150108774
+Valemount,Women+,Never legally married,0.174157303
+Warfield,Women+,Never legally married,0.161616162
+British Columbia,Women+,Separated,0.01673794
+Central Kootenay,Women+,Separated,0.019355436
+Columbia-Shuswap,Women+,Separated,0.016276704
+East Kootenay,Women+,Separated,0.018706718
+Fraser-Fort George,Women+,Separated,0.021691974
+Kootenay Boundary,Women+,Separated,0.019270833
+Canal Flats,Women+,Separated,0.022058824
+Castlegar,Women+,Separated,0.021097046
+Cranbrook,Women+,Separated,0.021726701
+Creston,Women+,Separated,0.026422764
+Columbia-Shuswap A,Women+,Separated,0.012173913
+Columbia-Shuswap B,Women+,Separated,0.008547009
+Elkford,Women+,Separated,0.020642202
+Fernie,Women+,Separated,0.011516315
+Fruitvale,Women+,Separated,0.023668639
+Golden,Women+,Separated,0.019402985
+Grand Forks,Women+,Separated,0.021947874
+Greenwood,Women+,Separated,0.031496063
+Invermere,Women+,Separated,0.0152207
+Kaslo,Women+,Separated,0.021390374
+Kimberley,Women+,Separated,0.024354244
+Midway,Women+,Separated,0.016666667
+Montrose,Women+,Separated,0.018072289
+Nakusp,Women+,Separated,0.017793594
+Nelson,Women+,Separated,0.021443515
+New Denver,Women+,Separated,0.033707865
+Radium Hot Springs,Women+,Separated,0.020920502
+Central Kootenay A,Women+,Separated,0.012285012
+Central Kootenay B,Women+,Separated,0.019704433
+Central Kootenay C,Women+,Separated,0.01171875
+Central Kootenay D,Women+,Separated,0.019083969
+Central Kootenay E,Women+,Separated,0.014662757
+Central Kootenay F,Women+,Separated,0.014409222
+Central Kootenay G,Women+,Separated,0.02166065
+Central Kootenay H,Women+,Separated,0.017462165
+Central Kootenay I,Women+,Separated,0.015695067
+Central Kootenay J,Women+,Separated,0.018333333
+Central Kootenay K,Women+,Separated,0.021604938
+East Kootenay A,Women+,Separated,0.012903226
+East Kootenay B,Women+,Separated,0.017291066
+East Kootenay C,Women+,Separated,0.011743451
+East Kootenay E,Women+,Separated,0.013422819
+East Kootenay F,Women+,Separated,0.020766773
+East Kootenay G,Women+,Separated,0.01754386
+Fraser-Fort George H,Women+,Separated,0.018382353
+Kootenay Boundary A,Women+,Separated,0.014336918
+Kootenay Boundary B,Women+,Separated,0.015810277
+Kootenay Boundary C,Women+,Separated,0.010135135
+Kootenay Boundary D,Women+,Separated,0.013986014
+Kootenay Boundary E,Women+,Separated,0.017110266
+Revelstoke,Women+,Separated,0.012893983
+Rossland,Women+,Separated,0.014749263
+Salmo,Women+,Separated,0.015306122
+Silverton,Women+,Separated,0
+Slocan,Women+,Separated,0.047619048
+Sparwood,Women+,Separated,0.021116139
+Trail,Women+,Separated,0.026831037
+Valemount,Women+,Separated,0.028089888
+Warfield,Women+,Separated,0.01010101
+British Columbia,Women+,Divorced,0.05067484
+Central Kootenay,Women+,Divorced,0.059733284
+Columbia-Shuswap,Women+,Divorced,0.053204476
+East Kootenay,Women+,Divorced,0.048835327
+Fraser-Fort George,Women+,Divorced,0.045925008
+Kootenay Boundary,Women+,Divorced,0.059201389
+Canal Flats,Women+,Divorced,0.051470588
+Castlegar,Women+,Divorced,0.058368495
+Cranbrook,Women+,Divorced,0.060891938
+Creston,Women+,Divorced,0.068089431
+Columbia-Shuswap A,Women+,Divorced,0.050434783
+Columbia-Shuswap B,Women+,Divorced,0.042735043
+Elkford,Women+,Divorced,0.029816514
+Fernie,Women+,Divorced,0.039347409
+Fruitvale,Women+,Divorced,0.047337278
+Golden,Women+,Divorced,0.044776119
+Grand Forks,Women+,Divorced,0.072702332
+Greenwood,Women+,Divorced,0.070866142
+Invermere,Women+,Divorced,0.057838661
+Kaslo,Women+,Divorced,0.085561497
+Kimberley,Women+,Divorced,0.053136531
+Midway,Women+,Divorced,0.058333333
+Montrose,Women+,Divorced,0.042168675
+Nakusp,Women+,Divorced,0.067615658
+Nelson,Women+,Divorced,0.067991632
+New Denver,Women+,Divorced,0.08988764
+Radium Hot Springs,Women+,Divorced,0.046025105
+Central Kootenay A,Women+,Divorced,0.056511057
+Central Kootenay B,Women+,Divorced,0.050492611
+Central Kootenay C,Women+,Divorced,0.04296875
+Central Kootenay D,Women+,Divorced,0.064885496
+Central Kootenay E,Women+,Divorced,0.060117302
+Central Kootenay F,Women+,Divorced,0.054755043
+Central Kootenay G,Women+,Divorced,0.0433213
+Central Kootenay H,Women+,Divorced,0.059371362
+Central Kootenay I,Women+,Divorced,0.047085202
+Central Kootenay J,Women+,Divorced,0.053333333
+Central Kootenay K,Women+,Divorced,0.052469136
+East Kootenay A,Women+,Divorced,0.032258065
+East Kootenay B,Women+,Divorced,0.031700288
+East Kootenay C,Women+,Divorced,0.039747064
+East Kootenay E,Women+,Divorced,0.046979866
+East Kootenay F,Women+,Divorced,0.039936102
+East Kootenay G,Women+,Divorced,0.049122807
+Fraser-Fort George H,Women+,Divorced,0.044117647
+Kootenay Boundary A,Women+,Divorced,0.046594982
+Kootenay Boundary B,Women+,Divorced,0.063241107
+Kootenay Boundary C,Women+,Divorced,0.047297297
+Kootenay Boundary D,Women+,Divorced,0.057692308
+Kootenay Boundary E,Women+,Divorced,0.058935361
+Revelstoke,Women+,Divorced,0.040830946
+Rossland,Women+,Divorced,0.048672566
+Salmo,Women+,Divorced,0.06122449
+Silverton,Women+,Divorced,0.071428571
+Slocan,Women+,Divorced,0.079365079
+Sparwood,Women+,Divorced,0.037707391
+Trail,Women+,Divorced,0.067440174
+Valemount,Women+,Divorced,0.050561798
+Warfield,Women+,Divorced,0.053872054
+British Columbia,Women+,Widowed,0.042280776
+Central Kootenay,Women+,Widowed,0.04686053
+Columbia-Shuswap,Women+,Widowed,0.051068159
+East Kootenay,Women+,Widowed,0.044248584
+Fraser-Fort George,Women+,Widowed,0.041090796
+Kootenay Boundary,Women+,Widowed,0.058680556
+Canal Flats,Women+,Widowed,0.044117647
+Castlegar,Women+,Widowed,0.054149086
+Cranbrook,Women+,Widowed,0.051457976
+Creston,Women+,Widowed,0.077235772
+Columbia-Shuswap A,Women+,Widowed,0.022608696
+Columbia-Shuswap B,Women+,Widowed,0.025641026
+Elkford,Women+,Widowed,0.027522936
+Fernie,Women+,Widowed,0.03646833
+Fruitvale,Women+,Widowed,0.068047337
+Golden,Women+,Widowed,0.041791045
+Grand Forks,Women+,Widowed,0.085048011
+Greenwood,Women+,Widowed,0.062992126
+Invermere,Women+,Widowed,0.065449011
+Kaslo,Women+,Widowed,0.058823529
+Kimberley,Women+,Widowed,0.045756458
+Midway,Women+,Widowed,0.083333333
+Montrose,Women+,Widowed,0.048192771
+Nakusp,Women+,Widowed,0.060498221
+Nelson,Women+,Widowed,0.046025105
+New Denver,Women+,Widowed,0.101123596
+Radium Hot Springs,Women+,Widowed,0.041841004
+Central Kootenay A,Women+,Widowed,0.054054054
+Central Kootenay B,Women+,Widowed,0.04679803
+Central Kootenay C,Women+,Widowed,0.04296875
+Central Kootenay D,Women+,Widowed,0.038167939
+Central Kootenay E,Women+,Widowed,0.032258065
+Central Kootenay F,Women+,Widowed,0.027377522
+Central Kootenay G,Women+,Widowed,0.036101083
+Central Kootenay H,Women+,Widowed,0.033760186
+Central Kootenay I,Women+,Widowed,0.040358744
+Central Kootenay J,Women+,Widowed,0.031666667
+Central Kootenay K,Women+,Widowed,0.046296296
+East Kootenay A,Women+,Widowed,0.022580645
+East Kootenay B,Women+,Widowed,0.034582133
+East Kootenay C,Women+,Widowed,0.036133695
+East Kootenay E,Women+,Widowed,0.036912752
+East Kootenay F,Women+,Widowed,0.049520767
+East Kootenay G,Women+,Widowed,0.042105263
+Fraser-Fort George H,Women+,Widowed,0.036764706
+Kootenay Boundary A,Women+,Widowed,0.039426523
+Kootenay Boundary B,Women+,Widowed,0.039525692
+Kootenay Boundary C,Women+,Widowed,0.084459459
+Kootenay Boundary D,Women+,Widowed,0.050699301
+Kootenay Boundary E,Women+,Widowed,0.030418251
+Revelstoke,Women+,Widowed,0.032234957
+Rossland,Women+,Widowed,0.026548673
+Salmo,Women+,Widowed,0.066326531
+Silverton,Women+,Widowed,0.071428571
+Slocan,Women+,Widowed,0.047619048
+Sparwood,Women+,Widowed,0.039215686
+Trail,Women+,Widowed,0.077592458
+Valemount,Women+,Widowed,0.061797753
+Warfield,Women+,Widowed,0.043771044

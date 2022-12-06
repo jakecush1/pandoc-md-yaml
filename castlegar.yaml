@@ -1,0 +1,22 @@
+title: Castlegar Community Profile
+castlegar:
+  community: Castlegar
+  local_health_area: Castlegar
+  census_year: 2022
+  regional_dist: Central Kootenay
+  location_descrip: The City of Castlegar is situated at the confluence of the Kootenay and Columbia Rivers. This relatively new (incorporated in 1966) city sits in a valley steeped in the heritage and culture of the Doukhobors who migrated here in the early 20th century. As a service center for much of the West Kootenay, residents and visitors will find many amenities, including access to parks and outdoor recreation, and a number of arts and cultural activities and events. Castlegar locals love their city and their sports, hosting numerous special events and tournaments throughout the year. See www.castlegar.ca for more information.
+  province: British Columbia
+  elevation:
+  area:
+  coordinates:
+
+  demographics:
+    population:
+      total_population_url: /statics/data/cp_demographics_totalPopulation.csv
+      population_density_url: /statics/data/cp_demographics_populationDensity.cs
+      population_projections_url: /statics/data/cp_demographics_populationProjections.csv
+
+    family_characteristics:
+    age_gender:
+    migration:
+    dependency:
