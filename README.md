@@ -1,2 +1,9 @@
-# pandoc-md-yaml
-sub in variables from yaml, into markdown files, using pandoc
+# Community Profiles Pandoc demo
+
+-> meta data in location.yaml file
+-> indicator is markdown file
+
+run command:
+```
+pandoc demographics_population.md --template demographics_population.md --metadata-file=nelson.yaml
+```
