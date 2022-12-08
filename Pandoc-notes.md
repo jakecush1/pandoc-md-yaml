@@ -43,3 +43,7 @@ pandoc demographic.md --template demographic.md --metadata-file=variables.yaml -
 
 testing with actual indicators, first using hardcoded variables inside of the indicators, to test pulling data from yaml file. later these variables would be set based on user selection
 
+dec 8/ 22
+
+Figure out new structure removing the location name as the objects parent.  dont need that and ti fixes the problem of having to specify location in markdown file.
+
