@@ -1,22 +1,21 @@
 title: Nelson Community Profile
-nelson:
-  community: Nelson
-  local_health_area: Nelson
-  census_year: 2022
-  regional_dist: Central Kootenay
-  location_descrip: A small city with a big personality, Nelson is situated on the West Arm of Kootenay Lake in the heart of the Selkirk mountains. Residents and visitors enjoy alpine and nordic skiing, mountain biking, hiking, boating, golf, and an active arts and culture scene with a thriving small business community. Home to an eclectic mix of established Nelson families, urban refugees, Vietnam draft dodgers and hippies, this offbeat Victorian town boasts hundreds of heritage buildings, numerous good restaurants, bustling coffee shops, and sidewalk cafes. See www.nelson.ca for more information.
-  province: British Columbia  
-  elevation:
-  area:
-  coordinates:
+community: Nelson
+local_health_area: Nelson
+census_year: 2022
+regional_dist: Central Kootenay
+location_descrip: A small city with a big personality, Nelson is situated on the West Arm of Kootenay Lake in the heart of the Selkirk mountains. Residents and visitors enjoy alpine and nordic skiing, mountain biking, hiking, boating, golf, and an active arts and culture scene with a thriving small business community. Home to an eclectic mix of established Nelson families, urban refugees, Vietnam draft dodgers and hippies, this offbeat Victorian town boasts hundreds of heritage buildings, numerous good restaurants, bustling coffee shops, and sidewalk cafes. See www.nelson.ca for more information.
+province: British Columbia  
+elevation:
+area:
+coordinates:
 
-  demographics:
-    population:
-      total_population_url: /statics/data/cp_demographics_totalPopulation.csv
-      population_density_url: /statics/data/cp_demographics_populationDensity.cs
-      population_projections_url: /statics/data/cp_demographics_populationProjections.csv
+demographics:
+  population:
+    total_population_url: /statics/data/cp_demographics_totalPopulation.csv
+    population_density_url: /statics/data/cp_demographics_populationDensity.cs
+    population_projections_url: /statics/data/cp_demographics_populationProjections.csv
 
-    family_characteristics:
-    age_gender:
-    migration:
-    dependency:
+  family_characteristics:
+  age_gender:
+  migration:
+  dependency:
