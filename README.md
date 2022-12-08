@@ -4,7 +4,7 @@
 -> indicator is markdown file
 
 See demograpics_population.md file. The variables which receive data from the yaml file has a hardcoded location name in it.  
-example variable: $castlegar.demographics.population.population_density_url$
+example variable: ```$castlegar.demographics.population.population_density_url$```
 
 Maybe my structure of the yaml file is wrong?
 
