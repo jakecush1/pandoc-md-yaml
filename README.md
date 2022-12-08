@@ -10,3 +10,5 @@
 pandoc demographics_population.md --template demographics_population.md --metadata-file=castlegar.yaml
 ```
 
+## will need to integrate pandoc-node api
+- could use [node-pandoc](https://www.npmjs.com/package/node-pandoc)
